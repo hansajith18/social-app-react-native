@@ -1,0 +1,23 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+# macOS
+.DS_Store
+### ReactNative template
+# React Native Stack Base
+
+.idea
+.vscode
+.expo
+__generated__
+.env
+package-lock.json
